@@ -1,0 +1,22 @@
+Cambios:
+
+diccionario de pokemons dicpokemos
+archivo para hacer cada pokemon a objeto 
+archivo para las funcionalidades de busqueda
+
+cosas a agregar:
+rutas de animaciones en el diccionario
+rutas de sonidos en el diccionario 
+correjir algunos textos en español (opcional)
+corrgeir nombres de pokemons la primera letra mayuscula
+
+Mejorar la funcionalidad en ventana
+
+# Notas:
+primero revisar el archivo llamado (dicc_pokemon.py) este es el diccionario
+luego revisa (instancias_pokemon.py) se encarga que hacer cada pokemon en objeto
+luego revisa (funciones_objeto.py) este se encarga de como se gestionan los 2 tipos de busquedas
+# puedes hacer pruebas
+
+opcional(test_ventana) ver como se obtienen datos con tkinter
+
